@@ -1,0 +1,5 @@
+2022/10/01-16:16:17.790 5214 Reusing MANIFEST E:/Workprint/Workprint/MyProject/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/01-16:25:17.270 65c Level-0 table #5: started
+2022/10/01-16:25:17.273 65c Level-0 table #5: 7523 bytes OK
+2022/10/01-16:25:17.275 65c Delete type=0 #3
+2022/10/01-16:25:17.275 65c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
