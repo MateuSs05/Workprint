@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\workinprogres\\myproject\\source\\myproject\\myprojectgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\workinprogres\\myproject\\intermediate\\build\\win64\\myproject\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\workinprogres\\myproject\\intermediate\\build\\win64\\unrealgame\\development\\myproject\\definitions.myproject.h",
+            "e:\\workinprogres\\myproject\\source\\myproject\\myprojectgamemodebase.h",
+            "e:\\epicgames\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\epicgames\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\epicgames\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\epicgames\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gamemodebase.generated.h",
+            "e:\\workinprogres\\myproject\\intermediate\\build\\win64\\unrealgame\\inc\\myproject\\myprojectgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
